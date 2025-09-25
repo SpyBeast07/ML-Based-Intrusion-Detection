@@ -1,0 +1,7 @@
+ttkbootstrap
+pandas
+scapy
+matplotlib
+seaborn
+scikit-learn
+Pillow

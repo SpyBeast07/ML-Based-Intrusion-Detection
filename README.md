@@ -1,7 +1,8 @@
 # Sniff, Learn, Detect: A Lightweight ML-Based Intrusion Detection Method Using Packet Features
 
-**Project by: Harshita Kumawat & Kushagra Gupta**
-**Under the guidance of: Dr. Devika Kataria**
+Project by: **Harshita Kumawat & Kushagra Gupta**
+
+Under the guidance of: **Dr. Devika Kataria** </br>
 *A Minor Project for JK Lakshmipat University, April 2025*
 
 ---

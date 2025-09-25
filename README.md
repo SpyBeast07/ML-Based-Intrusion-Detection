@@ -44,7 +44,7 @@ The project employs a two-stage machine learning approach:
 ├── assets/
 │   ├── demo.gif
 │   ├── id3_tree.png
-│   └── demo_video.mov
+│   └── demo_video.mp4
 ├── data/
 │   └── DHCP_starvaation.pcapng
 ├── reports/
@@ -88,12 +88,12 @@ Here is a brief demonstration of the application's workflow:
 
 ![Smart Sniffer Demo](assets/demo.gif)
 
-[**Watch the full video here (assets/demo_video.mov)**](assets/demo_video.mov)
+[**Watch the full video here (assets/demo_video.mp4)**](assets/demo_video.mp4)
 
 ### Results
 
 The Naive Bayes model successfully identified attack patterns in UDP, ICMP, and DISCOVER traffic. The Decision Tree provided a clear visualization of the classification logic, correctly flagging high-volume DISCOVER traffic as an attack while categorizing most other protocols as normal based on the training data.
 
-![ID3 Decision Tree](./assets/id3_tree.png)  
+![ID3 Decision Tree](assets/id3_tree.png)  
 
 ---
